@@ -1,0 +1,109 @@
+.register-page1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #d3e1e2;
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    border: none;
+    background: #eef1f6;
+    box-shadow: 0 0 2em #a5dbdd;
+    border-radius: 25px;
+    max-width: 600px;
+    width: 100%;
+    animation: fadeIn 1s ease-in-out;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .register-head {
+    margin-bottom: 0rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    color: #333;
+    text-transform: uppercase;
+  }
+  .register-icon {
+    background-image: url("C:\WORKSPACE\GARDEN\FrontEnd\garden\public\tabicon.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 0.5rem;
+  }
+  .register-form-group {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+  }
+  
+  .register-form-label {
+    font-size: 1.2rem;
+    color: black;
+    align-items: flex-start;
+  }
+  .register-form-input {
+    padding: 0.7rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 20px;
+    color: hsl(0deg 0% 30%);
+    width: 95%;
+    display: flex;
+    align-items: center;
+  }
+  .register-password-icon {
+    display: flex;
+    position: absolute;
+    cursor: pointer;
+    top: 40px;
+    left: 88%;
+  }
+
+  .register-form-error{
+    color: red;
+    font-size: 1rem;
+  }
+  
+  .register-form-control-btn{
+    margin-top: 1.5rem;
+    padding: 8px;
+    background-color: #a5dbdd;
+    font-size: 1.3rem;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 95%;
+  }
+  .register-form-control-btn:hover {
+    background-color: #407c87;
+  }
+  
+  @media screen and (max-width: 480px) {
+    .register-password-icon {
+      left: 85%;
+    }
+  }
+  @media screen and (max-width: 380px) {
+    .register-password-icon {
+      left: 82%;
+    }
+  }

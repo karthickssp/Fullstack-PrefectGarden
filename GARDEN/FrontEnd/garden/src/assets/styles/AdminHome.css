@@ -1,0 +1,46 @@
+.admin-background {
+    background: #d3e1e2;
+    text-align: center;
+    padding: 70px;
+  }
+  
+  .admin-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .admin-card {
+    box-shadow: 0 0 2em #a5dbdd;
+    border-radius: 8px;
+    text-align: center;
+    width: calc(33.33% - 20px);
+    cursor: pointer;
+  }
+  
+  .admin-image {
+    max-width: 400px;
+    max-height: 250px;
+    width: 90%;
+    height: 90%;
+    border-radius: 8px;
+  }
+  .admin-card:hover {
+    background-color: #e3f3eb;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00796b;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin-top: 10px;
+  }

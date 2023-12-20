@@ -1,0 +1,44 @@
+.privacy-back{
+  background: #d3e1e2;
+}
+.privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: none;
+    border-radius: 25px;
+    background: #eef1f6;
+    box-shadow: 0 0 2em #a5dbdd;
+    animation: fadeIn 1s ease-in-out;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }

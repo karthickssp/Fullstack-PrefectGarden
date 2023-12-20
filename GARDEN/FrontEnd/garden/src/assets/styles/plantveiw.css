@@ -1,0 +1,33 @@
+.plant-bg{
+  background-color: #d3e1e2;
+  text-align: center;
+  align-items: center;
+}
+.plant-card {
+  border: 2px solid #ccc;
+  padding: 15px;
+  margin: 20px;
+  height: 350px;
+  width: 350px;
+  transition: border-color 0.3s; 
+  animation: fadeIn 1s ease-in-out;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.plant-card:hover {
+  border-color: #007bff;
+  background-color: #eef1f6;
+  transform: translateY(-5px);
+}
+.view-button{
+  margin-top: 20px;
+  cursor: pointer;
+}

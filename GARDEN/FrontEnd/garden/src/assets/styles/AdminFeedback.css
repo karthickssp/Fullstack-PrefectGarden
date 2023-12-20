@@ -1,0 +1,33 @@
+.feedback-aback{
+    background: #d3e1e2;
+    height: 100vh;
+}
+.feedback-title{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+}
+.feedback-data-table {
+    margin: 20px;
+  }
+  
+  .feedback-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .feedback-table th, .feedback-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .feedback-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .feedback-table tr:hover {
+    background-color: #f5f5f5;
+  }

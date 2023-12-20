@@ -1,0 +1,193 @@
+[
+    {
+      "name": "Lettuce",
+      "description": "Lettuce is a leafy green vegetable often used in salads.",
+      "harvesting_age": "25-50 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, sandy loam soil",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Carrot",
+      "description": "Carrots are orange root vegetables known for their sweet flavor.",
+      "harvesting_age": "70-80 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Loose, well-drained soil with good organic content",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Moderate maintenance, thinning may be required",
+      "plant_type": "Biennial"
+    },
+    {
+      "name": "Cucumber",
+      "description": "Cucumbers are crisp, green vegetables commonly used in salads and pickles.",
+      "harvesting_age": "50-70 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, sandy soil",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Potato",
+      "description": "Potatoes are starchy tuberous vegetables used in various dishes.",
+      "harvesting_age": "70-120 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Loose, well-drained soil",
+      "water_consumption": "Regular watering, avoid waterlogging",
+      "maintenance": "Moderate maintenance, hilling required",
+      "plant_type": "Perennial"
+    },
+    {
+      "name": "Strawberry",
+      "description": "Strawberries are sweet, red berries often used in desserts.",
+      "harvesting_age": "30-45 days after flowering",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, loamy soil",
+      "water_consumption": "Regular watering, avoid wetting foliage",
+      "maintenance": "Moderate maintenance, runners need control",
+      "plant_type": "Perennial"
+    },
+    {
+      "name": "Tomato",
+      "description": "Tomatoes are red or yellowish fruits used in various culinary dishes.",
+      "harvesting_age": "60-85 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, avoid overhead watering",
+      "maintenance": "Moderate maintenance, staking may be required",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Bell Pepper",
+      "description": "Bell peppers are colorful and sweet-tasting peppers used in cooking.",
+      "harvesting_age": "60-90 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, loamy soil",
+      "water_consumption": "Regular watering, maintain even moisture",
+      "maintenance": "Moderate maintenance, staking may be required",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Basil",
+      "description": "Basil is a fragrant herb used in Italian cuisine and pesto sauce.",
+      "harvesting_age": "60-90 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, keep soil evenly moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Spinach",
+      "description": "Spinach is a leafy green vegetable rich in iron and vitamins.",
+      "harvesting_age": "40-50 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Zucchini",
+      "description": "Zucchini is a summer squash known for its mild flavor and versatility.",
+      "harvesting_age": "45-55 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, loamy soil",
+      "water_consumption": "Regular watering, avoid wetting foliage",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Green Beans",
+      "description": "Green beans are long, slender pods commonly used as a side dish.",
+      "harvesting_age": "50-65 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Moderate maintenance, provide support",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Cilantro",
+      "description": "Cilantro is a pungent herb used in Mexican and Asian cuisines.",
+      "harvesting_age": "45-70 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, keep soil evenly moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Radish",
+      "description": "Radishes are crisp root vegetables available in various colors.",
+      "harvesting_age": "20-30 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Loose, well-drained soil",
+      "water_consumption": "Regular watering, keep soil consistently moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Cherry Tomato",
+      "description": "Cherry tomatoes are small, sweet tomatoes often eaten fresh.",
+      "harvesting_age": "60-70 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, avoid overhead watering",
+      "maintenance": "Moderate maintenance, staking may be required",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Mint",
+      "description": "Mint is a fragrant herb used in beverages, desserts, and cooking.",
+      "harvesting_age": "60-90 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, keep soil evenly moist",
+      "maintenance": "Low maintenance",
+      "plant_type": "Perennial"
+    },
+    {
+      "name": "Pumpkin",
+      "description": "Pumpkins are large, orange squash often used in pies and decorations.",
+      "harvesting_age": "80-120 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, loamy soil",
+      "water_consumption": "Regular watering, avoid wetting foliage",
+      "maintenance": "Moderate maintenance, provide space to sprawl",
+      "plant_type": "Annual"
+    },
+    {
+      "name": "Rosemary",
+      "description": "Rosemary is a fragrant herb used in Mediterranean cuisine.",
+      "harvesting_age": "90-120 days after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, sandy soil",
+      "water_consumption": "Low water requirement",
+      "maintenance": "Low maintenance",
+      "plant_type": "Perennial"
+    },
+    {
+      "name": "Lemon",
+      "description": "Lemon trees produce tart citrus fruits used in cooking and beverages.",
+      "harvesting_age": "6-9 months after planting",
+      "season_type": "Warm-season",
+      "soil_type": "Well-drained, slightly acidic soil",
+      "water_consumption": "Regular watering, avoid waterlogged roots",
+      "maintenance": "Moderate maintenance, protect from frost",
+      "plant_type": "Perennial"
+    },
+    {
+      "name": "Onion",
+      "description": "Onions are pungent vegetables used as a base in many dishes.",
+      "harvesting_age": "90-120 days after planting",
+      "season_type": "Cool-season",
+      "soil_type": "Well-drained, fertile soil",
+      "water_consumption": "Regular watering, reduce before harvest",
+      "maintenance": "Low maintenance",
+      "plant_type": "Biennial"
+    }
+  ]
+  

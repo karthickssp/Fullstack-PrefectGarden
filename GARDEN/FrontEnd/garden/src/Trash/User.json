@@ -1,0 +1,16 @@
+{
+    "user": {
+      "first_name": "Karthick",
+      "last_name": "SSP",
+      "date_of_birth": "2000-06-03",
+      "address": {
+        "street": "123 Main St",
+        "city": "Salem",
+        "state": "Tamil Nadu",
+        "postal_code": "636112"
+      },
+      "phone_number": "987-654-3210",
+      "created_at": "2023-09-23T10:00:00Z"
+    }
+  }
+  
